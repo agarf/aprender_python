@@ -1,0 +1,1 @@
+s = "palavra ou frase"
